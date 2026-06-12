@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.cyclic.app/api?type=waving&color=6d28d9&height=200&section=header&text=Amaan%20Shikalgar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Amaan%20Shikalgar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Amaan%20Shikalgar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%">
+</picture>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+%26+Full+Stack+Developer;REST+API+%7C+RAG+%7C+Auth+Systems;Node.js+%7C+FastAPI+%7C+Python+%7C+React;Building+scalable+backend+systems" alt="Typing SVG" /></a>
 

@@ -227,11 +227,15 @@ Contributed across the full software development lifecycle at a software product
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 GitHub Stats Summary
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmaanShikalgar&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaanShikalgar&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaanShikalgar&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaanShikalgar&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmaanShikalgar&theme=tokyonight" width="32%"/>
 
 </div>
 

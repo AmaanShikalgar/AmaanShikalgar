@@ -22,7 +22,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmaanShikalgar&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/AmaanShikalgar?style=for-the-badge&color=6d28d9&labelColor=1e1b4b&label=FOLLOWERS)
+![Followers](https://img.shields.io/github/followers/AmaanShikalgar?style=for-the-badge&color=6d28d9&label=FOLLOWERS)
 
 </div>
 
@@ -231,7 +231,7 @@ Contributed across the full software development lifecycle at a software product
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmaanShikalgar&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmaanShikalgar&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

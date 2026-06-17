@@ -18,7 +18,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-          frame_duration_ms: 150
+          frame_duration_ms: 100
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:

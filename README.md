@@ -1,22 +1,9 @@
-## Hi there 👋
-
-<!--
-**AmaanShikalgar/AmaanShikalgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=200&section=header&text=Amaan%20Shikalgar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=150&section=header" width="100%"/>
+
+<h1>Amaan Shikalgar</h1>
+<h3>Backend & Full Stack Developer</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+%26+Full+Stack+Developer;REST+API+%7C+RAG+%7C+Auth+Systems;Node.js+%7C+FastAPI+%7C+Python+%7C+React;Building+scalable+backend+systems" alt="Typing SVG" /></a>
 
@@ -35,7 +22,7 @@ Here are some ideas to get you started:
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AmaanShikalgar&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/AmaanShikalgar?style=for-the-badge&color=6d28d9&labelColor=1e1b4b&label=FOLLOWERS)
+![Followers](https://img.shields.io/github/followers/AmaanShikalgar?style=for-the-badge&color=6d28d9&label=FOLLOWERS)
 
 </div>
 
@@ -240,11 +227,15 @@ Contributed across the full software development lifecycle at a software product
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏅 GitHub Stats Summary
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmaanShikalgar&theme=tokyonight&no-frame=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmaanShikalgar&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AmaanShikalgar&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmaanShikalgar&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmaanShikalgar&theme=tokyonight" width="32%"/>
 
 </div>
 
@@ -313,6 +304,6 @@ open_to:
 
 *"Good systems are built twice — once in planning, once in code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=120&section=footer" width="100%"/>
 
 </div>

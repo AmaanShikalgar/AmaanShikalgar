@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="561px" font-size="13px">
+<style>
+@font-face {src: local('Consolas');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%;}
+.key{fill:#ffa657;}.value{fill:#a5d6ff;}.cc{fill:#616e7f;}
+text,tspan{white-space:pre;}
+</style>
+<rect width="985px" height="561px" fill="#161b22" rx="15"/>
+<text x="15" y="28" fill="#8b949e" font-size="12.5px">
+<tspan x="15" y="28">@$$@@@@@@@@@@@@@@@@@$$$$$@@$$$@@###############BBBBB</tspan>
+<tspan x="15" y="45">#$B8#$##@#@###m$$$$$$$$a;   a$$$$$$8OM##BBB8B8BBB8B8</tspan>
+<tspan x="15" y="62">@$$$##@#####M@$$$                0$$$$mB8B8B#BBM8M88</tspan>
+<tspan x="15" y="79">@$#@$@$####B$$$     .+     .`;;     $$$#B#B8888M8888</tspan>
+<tspan x="15" y="96">@@###BB##@B$$      : `. :t            B$MB8B###B88B8</tspan>
+<tspan x="15" y="113">#8#BBB##BB8$                          $$0#BB8M8M8888</tspan>
+<tspan x="15" y="130">@###@###@#M$           $mpOj          $mMB8B88BB8BB8</tspan>
+<tspan x="15" y="147">@###B###B#0$     $$$$$$$$$$$$$$$$$$   $pBB8BBBB8MMB8</tspan>
+<tspan x="15" y="164">######@@#@8$$   $$ ;$$$$$$$$$$$@  @  $$O8888MM88BB88</tspan>
+<tspan x="15" y="181">##@B##8#BBBM$$ +$ t.    $$$$;   t i  $mm8888BB88MMmM</tspan>
+<tspan x="15" y="198">#@##@#8B###B0$  $$ $  #B$$$  $  : $  $BMBB8MM8MmMMMM</tspan>
+<tspan x="15" y="215">#B####B#B###m$$$$$$$$$$$$$$ $$$$$$$ii$Bm8M88MMmMmmmM</tspan>
+<tspan x="15" y="232">###@#B##B###8#j@$$$$$$$$$$$aa$M#$$$ ,$OMMMMMMmM8MBMM</tspan>
+<tspan x="15" y="249">#@BBB##BBBBB##@j$$$$$$$$`$$ $$$$@$# @$MBMMM88M8MmM8M</tspan>
+<tspan x="15" y="266">##B#B#B8BBB8BB$tB$$$$$$$$$$Bm0$Om$ @$mMMM88BM88mMM8M</tspan>
+<tspan x="15" y="283">BB###B###@###B@$i@$$M  :,+    $Bm  $mm888mM8MMmMMmmm</tspan>
+<tspan x="15" y="300">BB#BB8BM88BBB808$ja$$$$$$$$$$$$; @$0MB8BB8800O00pp0m</tspan>
+<tspan x="15" y="317">BB88BM8MmOjapB$$$$Bt,B$$$$$$j    $$$0iitaOmMMMM0mmmm</tspan>
+<tspan x="15" y="334">B##8M00M$$$$$$$` B$$$mi:.    OBB   $$$$$$0a+tpO0Mm00</tspan>
+<tspan x="15" y="351">8jjB$$$$$$8   a$;$$$$$$$$$$$$$0m$     ,B$$$$$@MjttjO</tspan>
+<tspan x="15" y="368">B$$$$$         $@i$$$$BBM00@0$$$$am         M$$$$$8O</tspan>
+<tspan x="15" y="385">p       m   i `m00tm$$$$$$$$$$$t  a              j$p</tspan>
+<tspan x="15" y="402">, . ;a+a   $$m$M#MOOtj@$#Mia+  , @@B$$$    `0M     :</tspan>
+<tspan x="15" y="419">.a0    j#;$$M $0$B0Bmi    :$i $aB$j+80B$$p    .j$@  </tspan>
+<tspan x="15" y="436"> i `   $$ 0$$ B8$MjM@B$$$$$  $8m#@ttM8a,$$$$:  0   `</tspan>
+<tspan x="15" y="453">    $$a$ .#$$ O@@8j0$Oj0$$ `$Bmm8Bji#OpjO$ M$$    ``</tspan>
+<tspan x="15" y="470">    $ $$ $mB$ @B@Mt0@BM$$ +$mMMm0B+,8:mBtm$ipm$$  ;.</tspan>
+<tspan x="15" y="487">.  $$ $$ $O$$ $8BMj8Bm@$  $8m8mmB$B$$iOma$$$,j$$  `.</tspan>
+<tspan x="15" y="504">` .aa,Om0mM8mOmmm000mM8pi0MMMMMMMmm8MM8MMmmpjmmt``..</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">amaan@shikalgar</tspan> -————————————————————————————————————————————-—-
+<tspan x="390" y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Linux, Windows 11</tspan>
+<tspan x="390" y="74" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Pune, Maharashtra, India</tspan>
+<tspan x="390" y="96" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">B.E. Computer Engineering (2021–2025)</tspan>
+<tspan x="390" y="118" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Backend &amp; Full Stack Developer</tspan>
+<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">VS Code, Cursor</tspan>
+<tspan x="390" y="162" class="cc">. </tspan>
+<tspan x="390" y="184" class="cc">. </tspan><tspan class="key">Languages.Backend</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, JavaScript, TypeScript, C++</tspan>
+<tspan x="390" y="206" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, HTML5, CSS3, Tailwind CSS</tspan>
+<tspan x="390" y="228" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">SQL, Pandas, NumPy</tspan>
+<tspan x="390" y="250" class="cc">. </tspan>
+<tspan x="390" y="272" class="cc">. </tspan><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Node.js, Express.js, FastAPI, Django</tspan>
+<tspan x="390" y="294" class="cc">. </tspan><tspan class="key">Stack.Databases</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PostgreSQL, MongoDB, MySQL, FAISS</tspan>
+<tspan x="390" y="316" class="cc">. </tspan><tspan class="key">Stack.AI</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">LLM APIs, RAG Pipelines, FAISS, Groq</tspan>
+<tspan x="390" y="338" class="cc">. </tspan><tspan class="key">Stack.DevOps</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Git, Docker, Vercel, Render, Railway</tspan>
+<tspan x="390" y="360">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="382" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">amaanshikalgar2003@gmail.com</tspan>
+<tspan x="390" y="404" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">linkedin.com/in/amaan-shikalgar</tspan>
+<tspan x="390" y="426" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">github.com/AmaanShikalgar</tspan>
+<tspan x="390" y="448" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">matrix-portfolio-lovat.vercel.app</tspan>
+<tspan x="390" y="470">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="492" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Open To Work</tspan>
+<tspan x="390" y="514" class="cc">. </tspan><tspan class="key">Hackathon</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Smart India Hackathon — Top 15 / 100+ teams</tspan>
+<tspan x="390" y="536" class="cc">. </tspan><tspan class="key">Club</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">President, Coders Club (50+ members)</tspan>
+<tspan x="390" y="558" class="cc">. </tspan><tspan class="key">Community</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">GDG Cloud Pune, GDG On Campus WOW</tspan>
+</text>
+</svg>

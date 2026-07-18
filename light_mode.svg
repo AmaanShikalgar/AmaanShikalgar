@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="561px" font-size="13px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="520px" font-size="13px">
 <style>
 @font-face {src: local('Consolas');font-family:'ConsolasFallback';font-display:swap;-webkit-size-adjust:109%;size-adjust:109%;}
 .key{fill:#953800;}.value{fill:#0a3069;}.cc{fill:#c2cfde;}
@@ -38,30 +38,25 @@ text,tspan{white-space:pre;}
 <tspan x="15" y="504">#$@ppBti+i;:itiii+++i;:am+;;;;;;;ii:;;:;;iiajii0##@@</tspan>
 </text>
 <text x="390" y="30" fill="#24292f">
-<tspan x="390" y="30">amaan@shikalgar</tspan> -————————————————————————————————————————————-—-
-<tspan x="390" y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Linux, Windows 11</tspan>
-<tspan x="390" y="74" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Pune, Maharashtra, India</tspan>
-<tspan x="390" y="96" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">B.E. Computer Engineering (2021–2025)</tspan>
-<tspan x="390" y="118" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Backend &amp; Full Stack Developer</tspan>
-<tspan x="390" y="140" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">VS Code, Cursor</tspan>
-<tspan x="390" y="162" class="cc">. </tspan>
-<tspan x="390" y="184" class="cc">. </tspan><tspan class="key">Languages.Backend</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, JavaScript, TypeScript, C++</tspan>
-<tspan x="390" y="206" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, HTML5, CSS3, Tailwind CSS</tspan>
-<tspan x="390" y="228" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">SQL, Pandas, NumPy</tspan>
-<tspan x="390" y="250" class="cc">. </tspan>
-<tspan x="390" y="272" class="cc">. </tspan><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Node.js, Express.js, FastAPI, Django</tspan>
-<tspan x="390" y="294" class="cc">. </tspan><tspan class="key">Stack.Databases</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PostgreSQL, MongoDB, MySQL, FAISS</tspan>
-<tspan x="390" y="316" class="cc">. </tspan><tspan class="key">Stack.AI</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">LLM APIs, RAG Pipelines, FAISS, Groq</tspan>
-<tspan x="390" y="338" class="cc">. </tspan><tspan class="key">Stack.DevOps</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Git, Docker, Vercel, Render, Railway</tspan>
-<tspan x="390" y="360">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="382" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">amaanshikalgar2003@gmail.com</tspan>
-<tspan x="390" y="404" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">linkedin.com/in/amaan-shikalgar</tspan>
-<tspan x="390" y="426" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">github.com/AmaanShikalgar</tspan>
-<tspan x="390" y="448" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">matrix-portfolio-lovat.vercel.app</tspan>
-<tspan x="390" y="470">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="492" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Open To Work</tspan>
-<tspan x="390" y="514" class="cc">. </tspan><tspan class="key">Hackathon</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Smart India Hackathon — Top 15 / 100+ teams</tspan>
-<tspan x="390" y="536" class="cc">. </tspan><tspan class="key">Club</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">President, Coders Club (50+ members)</tspan>
-<tspan x="390" y="558" class="cc">. </tspan><tspan class="key">Community</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">GDG Cloud Pune, GDG On Campus WOW</tspan>
+<tspan x="420" y="30">amaan@shikalgar</tspan> -————————————————————————————————————————————-—-
+<tspan x="400" y="52" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................................. </tspan><tspan class="value">Linux, Windows 11</tspan>
+<tspan x="400" y="74" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Pune, Maharashtra, India</tspan>
+<tspan x="400" y="96" class="cc">. </tspan><tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">B.E. Computer Engineering (2021–2025)</tspan>
+<tspan x="400" y="118" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Backend &amp; Full Stack Developer</tspan>
+<tspan x="400" y="140" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">VS Code, Cursor</tspan>
+<tspan x="400" y="162" class="cc">. </tspan>
+<tspan x="400" y="184" class="cc">. </tspan><tspan class="key">Languages.Backend</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, JavaScript, TypeScript, C++</tspan>
+<tspan x="400" y="206" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, HTML5, CSS3, Tailwind CSS</tspan>
+<tspan x="400" y="228" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">SQL, Pandas, NumPy</tspan>
+<tspan x="400" y="250" class="cc">. </tspan>
+<tspan x="400" y="272" class="cc">. </tspan><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Node.js, Express.js, FastAPI, Django</tspan>
+<tspan x="400" y="294" class="cc">. </tspan><tspan class="key">Stack.Databases</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">PostgreSQL, MongoDB, MySQL, FAISS</tspan>
+<tspan x="400" y="316" class="cc">. </tspan><tspan class="key">Stack.AI</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">LLM APIs, RAG Pipelines, FAISS, Groq</tspan>
+<tspan x="400" y="338" class="cc">. </tspan><tspan class="key">Stack.DevOps</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Git, Docker, Vercel, Render, Railway</tspan>
+<tspan x="400" y="360">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="400" y="382" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">amaanshikalgar2003@gmail.com</tspan>
+<tspan x="400" y="404" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">linkedin.com/in/amaan-shikalgar</tspan>
+<tspan x="400" y="426" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">github.com/AmaanShikalgar</tspan>
+<tspan x="400" y="448" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">matrix-portfolio-lovat.vercel.app</tspan>
 </text>
 </svg>

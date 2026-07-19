@@ -46,7 +46,7 @@ text,tspan{white-space:pre;}
 <tspan x="400" y="140" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">VS Code, Cursor</tspan>
 <tspan x="400" y="162" class="cc">. </tspan>
 <tspan x="400" y="184" class="cc">. </tspan><tspan class="key">Languages.Backend</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Python, JavaScript, TypeScript, C++</tspan>
-<tspan x="400" y="206" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, HTML5, CSS3, Tailwind CSS</tspan>
+<tspan x="400" y="206" class="cc">. </tspan><tspan class="key">Languages.Frontend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, Nextjs, HTML5, CSS3, Tailwind CSS</tspan>
 <tspan x="400" y="228" class="cc">. </tspan><tspan class="key">Languages.Data</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">SQL, Pandas, NumPy</tspan>
 <tspan x="400" y="250" class="cc">. </tspan>
 <tspan x="400" y="272" class="cc">. </tspan><tspan class="key">Stack.Backend</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Node.js, Express.js, FastAPI, Django</tspan>

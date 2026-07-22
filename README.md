@@ -7,7 +7,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions Snake
 
 <div align="center">
 
